@@ -1,4 +1,12 @@
-## Hi there 👋
+👋 Hi, I’m @Richie-excel
+👀 I’m interested in leveraging my tech skills in a practical setting
+🌱 I’m currently learning advanced React js 
+💞️ I’m looking to collaborate on real-world projects
+📫 How to reach me ... 
+-LinkedIn: linkedin.com/in/ngwese-richmond
+-TikTok: tiktok.com/@richieexcel
+-gmail: rngwese@gmail.com
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,mongodb,mysql,nodejs,postgres,py,react,spring,tailwind,ts&perline=5)](https://skillicons.dev)
 <!--
 **Richie-excel/Richie-excel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
