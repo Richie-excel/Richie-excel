@@ -1,4 +1,4 @@
-👋 Hi, I’m @Richie-excel
+👋 Hi, I’m @Richie-excel <br>
 👀 I’m interested in leveraging my tech skills in a practical setting
 🌱 I’m currently learning advanced React js 
 💞️ I’m looking to collaborate on real-world projects
@@ -6,6 +6,8 @@
 -LinkedIn: linkedin.com/in/ngwese-richmond
 -TikTok: tiktok.com/@richieexcel
 -gmail: rngwese@gmail.com
+
+Listed below is my tech stack
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,mongodb,mysql,nodejs,postgres,py,react,spring,tailwind,ts&perline=5)](https://skillicons.dev)
 <!--
