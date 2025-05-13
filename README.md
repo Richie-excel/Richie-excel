@@ -3,8 +3,8 @@
 🌱 I’m currently learning advanced React js <br>
 💞️ I’m looking to collaborate on real-world projects <br>
 📫 How to reach me:<br>
-- LinkedIn: linkedin.com/in/ngwese-richmond
-- TikTok: tiktok.com/@richieexcel
+- LinkedIn: www.linkedin.com/in/ngwese-richmond
+- TikTok: www.tiktok.com/@richieexcel
 - gmail: rngwese@gmail.com <br>
 
 Listed below is my tech stack <br>
