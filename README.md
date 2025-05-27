@@ -9,7 +9,7 @@
 
 Listed below is my tech stack <br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,mongodb,mysql,nodejs,postgres,react,spring,tailwind,ts,django&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,mongodb,mysql,nodejs,postgres,react,spring,tailwind,ts,django,docker&perline=5)](https://skillicons.dev)
 <!--
 **Richie-excel/Richie-excel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
