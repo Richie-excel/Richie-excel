@@ -1,26 +1,17 @@
-👋 Hi, I’m @Richie-excel <br>
-👀 I’m interested in leveraging my tech skills in a practical setting <br>
-🌱 I’m currently learning advanced React js <br>
-💞️ I’m looking to collaborate on real-world projects <br>
+👋Hi, I’m Richie Excel.
+
+I am an aspiring software developer focused on building scalable, reliable, and user-centric applications.
+As a fresh graduate, I am actively strengthening my expertise in modern backend and full-stack development, and applying my skills to practical, real-world projects.
+Interests: Building efficient digital solutions, exploring modern JavaScript/TypeScript frameworks, and contributing to impactful software initiatives.
+Currently Learning: Advanced React.js, NestJS, and Docker, with a focus on clean architecture, containerization, and backend API development.
+Open to Collaboration: I welcome opportunities to work on real-world projects that promote learning, teamwork, and professional growth.
 📫 How to reach me:<br>
-- LinkedIn: www.linkedin.com/in/ngwese-richmond
+- LinkedIn: www.linkedin.com/in/ngwese-richmond-a659501a3
 - TikTok: www.tiktok.com/@richieexcel
 - gmail: rngwese@gmail.com <br>
 
 Listed below is my tech stack <br>
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,ts,nodejs,nestjs,docker,react,tailwind&perline=5)](https://skillicons.dev)
-<!--
-**Richie-excel/Richie-excel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
