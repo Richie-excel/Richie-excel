@@ -7,7 +7,7 @@ Currently Learning: Advanced React.js, NestJS, and Docker, with a focus on clean
 Open to Collaboration: I welcome opportunities to work on real-world projects that promote learning, teamwork, and professional growth.
 📫 How to reach me:<br>
 - LinkedIn: www.linkedin.com/in/ngwese-richmond-a659501a3
-- TikTok: www.tiktok.com/@richieexcel
+- TikTok: www.tiktok.com/@techwithrichie
 - gmail: rngwese@gmail.com <br>
 
 Listed below is my tech stack <br>
