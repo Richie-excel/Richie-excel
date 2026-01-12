@@ -1,6 +1,6 @@
 👋Hi, I’m Richie Excel.
 
-I am an aspiring software developer focused on building scalable, reliable, and user-centric applications.
+I am a software developer focused on building scalable, reliable, and user-centric applications.
 As a fresh graduate, I am actively strengthening my expertise in modern backend and full-stack development, and applying my skills to practical, real-world projects.
 Interests: Building efficient digital solutions, exploring modern JavaScript/TypeScript frameworks, and contributing to impactful software initiatives.
 Currently Learning: Advanced React.js, NestJS, and Docker, with a focus on clean architecture, containerization, and backend API development.
