@@ -8,7 +8,7 @@ Open to Collaboration: I welcome opportunities to work on real-world projects th
 📫 How to reach me:<br>
 - LinkedIn: www.linkedin.com/in/ngwese-richmond-a659501a3
 - TikTok: www.tiktok.com/@techwithrichie
-- gmail: rngwese@gmail.com <br>
+- gmail: ngweserichmond1@gmail.com <br>
 
 Listed below is my tech stack <br>
 
