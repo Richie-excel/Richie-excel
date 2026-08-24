@@ -12,6 +12,6 @@ Open to Collaboration: I welcome opportunities to work on real-world projects th
 
 Listed below is my tech stack <br>
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,ts,java,springboot,python,nestjs,docker,react,tailwind&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,ts,java,spring-boot,python,nestjs,docker,react,tailwind&perline=5)](https://skillicons.dev)
 
 
